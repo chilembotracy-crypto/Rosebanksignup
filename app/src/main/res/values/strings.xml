@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">RosebankSignUp</string>
+<string name="brand_name">ROSEBANK</string>
+<string name="brand_subtitle">INTERNATIONAL</string>
+<string name="form_heading">Create your student account</string>
+<string name="label_full_name">Full Name</string>
+<string name="label_email">Student / Email Address</string>
+<string name="label_password">Password</string>
+<string name="label_confirm_password">Confirm Password</string>
+<string name="btn_sign_up">Sign Up</string>
+<string name="login_prompt">Already have an account? Log in</string>
+</resources>
+
+

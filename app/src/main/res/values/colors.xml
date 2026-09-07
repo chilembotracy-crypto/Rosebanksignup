@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rosebank_navy">#1B2A4A</color>
+    <color name="rosebank_gold">#D4A93E</color>
+    <color name="rosebank_bg">#F5F6FA</color>
+    <color name="rosebank_text">#2C2C2C</color>
+    <color name="rosebank_hint">#6B6B6B</color>
+    <color name="white">#FFFFFF</color>
+</resources>
